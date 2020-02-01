@@ -33,12 +33,12 @@ Similar to the ArrayOverlaps, but in this case instead of a bool, a List is retu
 ## ArraysOverlap
 This method takes two arrays and compares where certain given value in second array overlaps the same value in the first array. Arrays don't need to be the same size, and second array can be offset so that it is partially not overlapping the first array.
 
-![ArrayOverlaps image](/doc/array_overlaps_at.png)
+![ArrayOverlaps image](/doc/array_overlaps.png)
 
 ## ArraysOverlapAt
 Similar to the ArraysOverlap, but in this case instead of a bool, a List is returned with Vector2Int values of overlap locations.
 
-![ArrayOverlaps image](/doc/array_overlaps.png)
+![ArrayOverlaps image](/doc/array_overlaps_at.png)
 
 
 
