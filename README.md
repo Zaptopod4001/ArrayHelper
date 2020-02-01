@@ -85,7 +85,7 @@ Flips array data along y-axis. Returns a new array.
 
 
 ## About
-I created Array Helper for myself for different personal Unity projects. These are pretty much work in progress.
+I created Array Helper for myself for different personal Unity projects. These helper methods are pretty much work in progress.
 
 
 ## Copyright 
